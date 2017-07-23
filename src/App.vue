@@ -24,7 +24,7 @@
     },
     data() {
       return {
-        interval: 10,//显示一个字符的时间
+        interval: 20,//显示一个字符的时间
         currentStyle: '',//当前样式
         enableHtml: false,//是否显示 简历内容
         currentResumeMarkdown: '',
