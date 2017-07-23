@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> [项目预览](https://jasonyqwang.github.io/vue-resume/dist/index.html)
+
 ## Build Setup
 
 ``` bash
