@@ -22,7 +22,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 部署方法
 
-1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `项目名/dist`。
+1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `/项目名/dist`。
 
 2. 编译、上传
     ``` bash
