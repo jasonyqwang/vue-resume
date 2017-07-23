@@ -24,7 +24,7 @@
     },
     data() {
       return {
-        interval: 30,//显示一个字符的时间
+        interval: 10,//显示一个字符的时间
         currentStyle: '',//当前样式
         enableHtml: false,//是否显示 简历内容
         currentResumeMarkdown: '',
@@ -102,10 +102,11 @@
             let showResume = () => {
               if (this.currentResumeMarkdown.length < length) {
                 this.currentResumeMarkdown = resumeContent.substring(0, this.currentResumeMarkdown.length + 1)
-                let lastChar = this.currentResumeMarkdown[this.currentResumeMarkdown.length - 1]
+                let lastChar = this.currentResumeMarkdown[this.currentResumeMarkdown.length-1]
 
+                console.log('lastChar:', lastChar)
                 if (lastChar === '\n' && this.$refs.resumeEditor) {
-                  this.$nextTick(() => this.$refs.resumeEditor.goBottom())
+                  this.$nextTick(() => this.$refs.resumeEditor.scrollTop())
                 }
                 setTimeout(showResume, interval)
             } else {

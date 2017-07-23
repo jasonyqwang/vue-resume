@@ -34,7 +34,7 @@ html {
   margin: .5em;
   overflow: auto;
   width: 45vw;
-  height: 90vh;
+  height: 95vh;
 }
 /* 代码高亮 */
 .token.comment {color: #857F6B;font-style: italic;}
@@ -59,7 +59,7 @@ html{
 .resumeEditor{
   position: fixed; right: 0; top: 0;
   padding: .5em;  margin: .5em;
-  width: 48vw; height: 90vh;
+  width: 50vw; height: 95vh;
   border: 1px solid;
   background: white; color: #222;
   overflow: auto;
@@ -74,7 +74,7 @@ html{
         third: `
 /* 再对 HTML 加点样式 */
 .resumeEditor{
-  padding: 2em;
+  padding: 1em 1em 3em 1em;
 }
 .resumeEditor h1{
   display: inline-block;

@@ -15,11 +15,9 @@
       }
     },
     methods: {
-      goBottom: function () {
-        scrollTop() {
-          let scrollHeight = this.$refs.container.scrollHeight;
-          this.$refs.container.scrollTop = scrollHeight+10;
-        }
+      scrollTop() {
+        let scrollHeight = this.$refs.container.scrollHeight;
+        this.$refs.container.scrollTop = scrollHeight+100;
       }
     }
   }
