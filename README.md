@@ -1,4 +1,4 @@
-# vue-resume
+# 使用vue制作的简历项目
 
 > A Vue.js project
 
