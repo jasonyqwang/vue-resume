@@ -30,7 +30,7 @@
  - 男/1989
  - 本科/数学与应用数学专业
  - 工作年限：7年（2012-09 - 2018-08）
- - 技术博客：http://itman.su520.com/
+ - 技术博客：http://itman.su520.com
  - Github：https://github.com/jasonyqwang
 
  - 期望职位：高级PHP开发工程师、前端开发工程师
@@ -86,4 +86,20 @@
       }
     }
   }
+
+  console.log('===================================================')
+
+  console.log('===============  目前对外公开访问的项目 =====================')
+
+  console.log('2017-2018 http://android.myapp.com/myapp/detail.htm?apkName=com.moka.cjtt')
+
+  console.log('2014-2017 http://android.myapp.com/myapp/detail.htm?apkName=com.moka.cjtt')
+
+  console.log('2014-2017： http://www.microbenefits.com/   http://www.ifuli.cn')
+
+  console.log('2015:  PC - http://maimwu.com   Phone - http://m.maimwu.com/')
+
+  console.log('2013:  http://www.job123.jp')
+
+  console.log('===================================================')
 </script>
