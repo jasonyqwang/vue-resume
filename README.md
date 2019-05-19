@@ -3,7 +3,7 @@
 > 基于 Vue2.0 构建的项目
 > [项目预览](https://jasonyqwang.github.io/vue-resume/dist/index.html)
 
-## Build Setup
+## 构建步骤
 
 ``` bash
 # install dependencies
@@ -19,10 +19,13 @@ npm run build
 npm run build --report
 ```
 
-git config --global credential.helper store
+## 简历模板
 
+* 预置了 php,web,node 的简历模板, 位于 src/assets 
+* 更多程序员简历模板见 [ResumeSample](https://github.com/geekcompany/ResumeSample)
+* 程序展示简历模板信息， 需修改 ResumeContent.vue 文件
+  
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## 部署方法
 
