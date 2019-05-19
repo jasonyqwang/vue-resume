@@ -32,7 +32,6 @@
  - 工作年限：7年（2012-09 - 2018-08）
  - 技术博客：http://itman.su520.com
  - Github：https://github.com/jasonyqwang
-
  - 期望职位：高级PHP开发工程师、前端开发工程师
  - 期望薪资：面谈
  - 期望城市：苏州 | 上海
