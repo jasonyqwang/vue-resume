@@ -1,7 +1,6 @@
 # 使用vue制作的简历项目
 
-> A Vue.js project
-
+> 基于 Vue2.0 构建的项目
 > [项目预览](https://jasonyqwang.github.io/vue-resume/dist/index.html)
 
 ## Build Setup

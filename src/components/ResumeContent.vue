@@ -40,7 +40,15 @@
 ---
 
 # 工作经历
-### 1.梦嘉传媒有限公司 （ 2017年12月 ~ 2018-08 ）
+### 鹰空网络科技有限公司 （ 2018年08月 ~ 今 ）
+
+- 全栈工程师
+- 1.基于Laravel 的游戏，小说、视频等后台搭建
+- 2.基于Vue的H5项目开发
+- 3.基于Redis、Mysql、SSDB做数据存储的数据库设计
+- 4.基于Composer开发，接口以及SDK插件的开发
+
+### 梦嘉传媒有限公司 （ 2017年12月 ~ 2018-08 ）
 
 - 超级头条项目（PHP主管）
 - 1.团队管理与沟通工作
@@ -49,7 +57,7 @@
 - 4.广告系统、采集系统、接口系统、以及裂变系统的设计，以及开发
 - 5.兼顾一部分运维工作
 
-### 2.微邦财务咨询有限公司（ 2014年2月 ~ 2017-12 ）
+### 微邦财务咨询有限公司（ 2014年2月 ~ 2017-12 ）
 
 - 掌知识项目（组长）
 - 1.后台以及接口架构设计，协作分配团队任务
@@ -57,7 +65,7 @@
 - 3.编写核心业务代码，实现功能
 - 4.发布代码，承担一部分运维工作
 
-### 3.功夫网络科技有限公司（ 2012年9月 ~ 2014-01 ）
+### 功夫网络科技有限公司（ 2012年9月 ~ 2014-01 ）
 
 - 功夫信项目
 - 1.功夫信是关于校园招聘的项目
@@ -70,7 +78,7 @@
 
 - Web开发：PHP/Javascript/Nodejs
 - Web框架：Yii/Laravel/ThinkPHP/Yaf
-- 前端框架：Bootstrap/HTML5/Vue
+- 前端框架：Layui/Bootstrap/HTML5/Vue
 - 前端工具：Webpack/SaSS
 - 数据库相关：MySQL/Redis/MongoDB/Memcache
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer/Docker/Jenkins
@@ -92,8 +100,6 @@
   console.log('===============  目前对外公开访问的项目 =====================')
 
   console.log('2017-2018 http://android.myapp.com/myapp/detail.htm?apkName=com.moka.cjtt')
-
-  console.log('2014-2017 http://android.myapp.com/myapp/detail.htm?apkName=com.moka.cjtt')
 
   console.log('2014-2017： http://www.microbenefits.com/   http://www.ifuli.cn')
 
